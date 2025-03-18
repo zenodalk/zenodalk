@@ -10,9 +10,9 @@ label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=zenodalk&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align = "center">
-  <img height = "150" width = "150" src = "WEBP/left.webp"/>
+  <img height = "150" width = "100" src = "WEBP/left.webp"/>
   <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=zenodalk&theme=dark&hide_border=true"/>
-  <img height = "150" width = "150" src = "WEBP/right.webp"/>
+  <img height = "150" width = "100" src = "WEBP/right.webp"/>
 </p>
 
 <p align = "center">
