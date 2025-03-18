@@ -11,9 +11,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zenodalk&column=8&margin-w=25&margin-h=25&no-bg=true&no-frame=false&theme=juicyfresh)
 
 <p align = "center">
-  <img height = "80" width = "80" src = "WEBP/left.webp"/>
   <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=zenodalk&theme=dark&hide_border=false"/>
-  <img height = "80" width = "80" src = "WEBP/right.webp"/>
 </p>
 
 <p style = "display: inline" align = "center">
