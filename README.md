@@ -21,42 +21,4 @@
 
 ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenodalk&theme=react-dark&hide_border=false&area=true)
 
-<p align = "center">
-  <br>
-  <a href = "https://discord.com" target = "_blank">
-    <code><img height = "60" width = "60" src="" alt = ""/></code>
-  </a>
-  <a href="https://discord.com" target = "_blank">
-    <code><img  height = "60" width = "60" src="" alt = ""/></code>
-  </a>
-  <a href="https://discord.com" target = "_blank">
-    <code><img height = "60" width = "60" src = "" alt = ""/></code>
-  </a>
-  <a href="https://discord.com" target = "_blank">
-    <code><img height = "60" width = "60" src = "" alt = ""/></code>
-  </a>
-  <a href="https://discord.com">
-    <code><img height = "62" width = "62" src = "" alt = ""/></code>
-  </a>     
-</p>
-
-<p align = "center">
-  <br>
-  <a href = "https://discord.com" target = "_blank">
-    <code><img height = "60" width = "60" src="" alt = ""/></code>
-  </a>
-  <a href="https://discord.com" target = "_blank">
-    <code><img  height = "60" width = "60" src="" alt = ""/></code>
-  </a>
-  <a href="https://discord.com" target = "_blank">
-    <code><img height = "60" width = "60" src = "" alt = ""/></code>
-  </a>
-  <a href="https://discord.com" target = "_blank">
-    <code><img height = "60" width = "60" src = "" alt = ""/></code>
-  </a>
-  <a href="https://discord.com">
-    <code><img height = "62" width = "62" src = "" alt = ""/></code>
-  </a>     
-</p>
-
-![footer]()
+![footer](https://project.zenodalk.nicepage.com)
