@@ -1,11 +1,8 @@
 
 <p align="center">
   <img alt = "Profile Views" src = "https://komarev.com/ghpvc/?username=zenodalk&style=flat&color=blue&style=social"/>
-  <img alt = "GitHub Followers" src = "https://img.shields.io/github/followers/zenodalk?label=Github Followers&style=social"/> 
   <img alt = "GitHub Stars" src = "https://img.shields.io/github/stars/zenodalk?label=GitHub Stars"/>
   <a href = "https://github.com/sponsors/zenodalk">
-    <img alt = "GitHub Sponsors" src = "https://img.shields.io/static/v1label=GitHub Sponsors&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/>
-  </a>
 </p>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zenodalk&column=8&margin-w=25&margin-h=25&no-bg=true&no-frame=false&theme=juicyfresh)
